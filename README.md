@@ -1,12 +1,5 @@
 ## Hi 👋, I'm Tim
-A Senior student in Computer Science, Kasetsart University.
-<!-- 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cjtim" alt="cjtim" /></a> </p>
-
-<div align="center">
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=cjtim&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjtim&layout=compact" />
-</div> -->
+Looking for work... DevOps, SRE, Software engineer based in Tampa, FL. Email me at jinnatim@gmail.com or Linkedin! :) 
 -   :hammer_and_pick: Developer / Devops / Coffee lover ☕️
 -   :man: Pronouns: he/him
 
